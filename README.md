@@ -44,7 +44,7 @@ app-fe/
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone [github-user-FE](https://github.com/vohavinhtan01012001/github-user-FE.git)
 cd app-fe
 ```
 
