@@ -77,3 +77,20 @@ The application will start on http://localhost:5173
 - `npm run lint` - Run ESLint
 - `npm run test` - Run tests
 
+## Screenshots
+
+### Authentication Page
+![Auth Page](./screenshots/auth.png)
+*Phone number authentication screen*
+
+![Auth Page](./screenshots/auth.png)
+*accessCode number authentication screen*
+
+### Home Page
+![Home Page](./screenshots/home.png)
+*GitHub user search with pagination*
+
+### Profile Modal
+![Profile Modal](./screenshots/profile.png)
+*Liked GitHub profiles view*
+
